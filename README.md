@@ -1,2 +1,2 @@
-# Alura-Tratatmento-de-dados-com-API
-Curso onde foi ensinado a utilizar uma API para automatizar o preenchimento de formulário com endereço do usuário através do CEP informado com tratamento de erros
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
